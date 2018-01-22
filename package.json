@@ -11,9 +11,10 @@
     "url": "git+https://github.com/Jorge-Cano/Rest-API.git"
   },
   "dependencies": {
-    "express": "*",
     "body-parser": "*",
-    "mongoose": "*"
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.14.11"
   },
   "author": "Jorge Cano",
   "license": "ISC",

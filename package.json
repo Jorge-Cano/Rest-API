@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "building rest api with MEAN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge-Cano/Rest-API.git"
+  },
+  "author": "Jorge Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorge-Cano/Rest-API/issues"
+  },
+  "homepage": "https://github.com/Jorge-Cano/Rest-API#readme"
+}

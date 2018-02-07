@@ -12,4 +12,4 @@ app.get('/', function(req,res){
 });
 
 app.listen(3000);
-console.log('Hey every clap your hands');
+console.log('Hey every clap your hands, clap twice');
